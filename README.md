@@ -3,9 +3,6 @@
 ##
 
 
-<p align="center">
-  <img alt="...." src="../next-js_13/assets/pngwing.com.png" width="50%">
-</p>
 
 
 **Next.js**
@@ -26,6 +23,7 @@ A estrutura Next.js utiliza a arquitetura JAMstack, que distingue entre front-en
 
 - Fonte:
     - Link: https://pt.wikipedia.org/wiki/Next.js
+
 
 
 ### 001 - VAMOS DAR INÍCIO A ESTA AVENTURA!
