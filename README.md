@@ -3,7 +3,7 @@
 ##
 
 <p align="center">
-  <img alt="...." src="../next-js_13/assets/png-transparent-next-js-hd-logo.png" width="70%">
+  <img alt="...." src="../next-js_13/assets/next-js-seeklogo.com.svg" width="50%">
 </p>
 
 
