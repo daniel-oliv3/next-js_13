@@ -44,9 +44,40 @@ npx create-next-app@latest
     - next-js_001
 
 
+### 002 PRIMEIRO CONTACTO COM A DOCUMENTAÇÃO
+
+**O que é Next.js?**
+
+Next.js é uma estrutura React para construir aplicativos web full-stack. Você usa React Components para construir interfaces de usuário e Next.js para recursos e otimizações adicionais.
+
+Nos bastidores, Next.js também abstrai e configura automaticamente as ferramentas necessárias para React, como agrupamento, compilação e muito mais. Isso permite que você se concentre na construção de seu aplicativo em vez de perder tempo com configuração.
+
+Quer você seja um desenvolvedor individual ou parte de uma equipe maior, Next.js pode ajudá-lo a construir aplicativos React interativos, dinâmicos e rápidos.
+
+- Documentação: https://nextjs.org/docs
+
+- https://nextjs.org/docs/getting-started/installation
+
+- TailwindCSS
 
 
+**Terminal**
 
+- Verifica a versão do NodeJS
+```
+node -v
+```
+
+**Instalação Automatica**
+
+
+- Cria o projeto Nextjs
+```
+npx create-next-app@latest
+```
+
+- Exemplo
+    - next-js_002
 
 
 
