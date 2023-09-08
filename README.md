@@ -118,10 +118,29 @@ Aqui estão alguns benefícios do uso do ESLint
 
 
 
+### 4 - PRIMEIRA EXECUÇÃO DE UM PROJETO
+
+- Install
+    - link: https://nextjs.org/docs/getting-started/installation
 
 
+**Instalação Automatica**
 
+- Cria o projeto Nextjs
+```
+npx create-next-app@latest
+```
 
+- Roda o projeto
+```
+npm run dev
+```
+
+- R
+    - L: http://localhost:3000/
+
+- Exemplo
+    - next-js_004
 
 
 
