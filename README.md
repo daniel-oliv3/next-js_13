@@ -26,7 +26,7 @@ A estrutura Next.js utiliza a arquitetura JAMstack, que distingue entre front-en
 
 
 
-### 001 - VAMOS DAR INÍCIO A ESTA AVENTURA!
+### 1 - VAMOS DAR INÍCIO A ESTA AVENTURA!
 
 **Next JS**
 
@@ -44,7 +44,7 @@ npx create-next-app@latest
     - next-js_001
 
 
-### 002 PRIMEIRO CONTACTO COM A DOCUMENTAÇÃO
+### 2 - PRIMEIRO CONTACTO COM A DOCUMENTAÇÃO
 
 **O que é Next.js?**
 
@@ -82,10 +82,38 @@ npx create-next-app@latest
 
 
 
+### 3 - TYPESCRIPT, ESLINT, TAILWIND
+
+**Links**
+
+- TypeScript
+    - Link: https://www.typescriptlang.org/
+- ESLint
+    - Link: https://eslint.org/    
+- TailwindCSS
+    - Link: https://tailwindcss.com/
 
 
+**ESLint**    
+
+ESLint é uma ferramenta de análise de código estática para JavaScript. ele é usado para detectar erros de sintaxe, estilo e padroes de código que podem levar a problemas de qualidade de software. 
+
+O ESLint pode ser usado para verificar arquivos JavaScript individuais ou projetos inteiros. Ele pode ser
+executado na linha de comando ou integrado a editores de texto e IDEs.
+
+O ESLint é uma ferramenta valiosa para desenvolvimento JavaScript. ele pode ajudar a garantir a qualidade dp código e evitar erros
+
+Aqui estão alguns benefícios do uso do ESLint
+
+- Ajuda a detectar erros de sintaxe
+- Detecta padrões de código problemáticos
+- Pode ser personalizado para atender as suas necessidades
+- Pode ser integrado a editores de texto e IDEs
+- Se você é um desenvolvedor Javascript, eu recomendo que você experimente o ESLint. É uma ferramenta poderosa que pode ajudar-lo a escrever código de melhor qualidade
 
 
+- Exemplo
+    - next-js_003
 
 
 
