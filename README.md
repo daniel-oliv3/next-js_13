@@ -144,10 +144,34 @@ npm run dev
 
 
 
+### 5 - INTRODUÇÃO AO APP ROUTER
+
+**Instalação Automatica**
+
+- Cria o projeto Nextjs
+```
+npx create-next-app@latest
+```
+
+- Roda o projeto
+```
+npm run dev
+```
+
+**Routing Fundamentals**
+
+- Documentação: 
+    - Link: https://nextjs.org/docs/app/building-your-application/routing
 
 
+- URLs
 
+- http://localhost:3000/
+- http://localhost:3000/home
+- http://localhost:3000/servicos
 
+- Exemplo
+    - next-js_005
 
 
 
