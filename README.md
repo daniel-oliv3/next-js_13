@@ -175,4 +175,37 @@ npm run dev
 
 
 
+### 6 - APP ROUTER COM SUBPASTAS E LINKS
+
+**Linking and Navigating**
+
+- Documentação:
+    - Link: https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating
+
+**<Link> Component**
+
+- Link: https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#link-component
+
+- URLs
+
+- http://localhost:3000/
+- http://localhost:3000/home
+- http://localhost:3000/servicos
+- http://localhost:3000/servicos/manutencao
+- http://localhost:3000/contato
+
+- Exemplo
+    - next-js_006
+
+
+
+
+
+
+
+
+
+
+
+
 
