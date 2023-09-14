@@ -1,0 +1,31 @@
+
+.navWrapper {
+    background: rgb(229, 230, 203);
+    padding: 20px;
+    border: 1px solid rgb(109, 105, 41);
+}
+
+.link {
+    text-decoration: underline;
+    color: blue;
+}
+
+
+.link:hover {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

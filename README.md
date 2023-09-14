@@ -199,6 +199,21 @@ npm run dev
 
 
 
+### 7 - CSS MODULES NO APP ROUTER
+
+
+**Styling**
+
+- Documentação:
+    - Link: https://nextjs.org/docs/app/building-your-application/styling
+
+
+**CSS Modules**
+
+ - Link: https://nextjs.org/docs/app/building-your-application/styling/css-modules
+
+- Exemplo
+    - next-js_007
 
 
 
