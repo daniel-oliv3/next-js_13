@@ -182,7 +182,7 @@ npm run dev
 - Documentação:
     - Link: https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating
 
-**<Link> Component**
+**< Link > Component**
 
 - Link: https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#link-component
 
@@ -217,10 +217,11 @@ npm run dev
 
 
 
+### 8 - INÍCIO DA CONSTRUÇÃO DE SITE COM POUCAS BASES DE NEXTJS
 
 
-
-
+- Exemplo
+    - next-js_008
 
 
 
