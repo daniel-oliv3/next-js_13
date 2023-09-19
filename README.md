@@ -224,4 +224,17 @@ npm run dev
     - next-js_008
 
 
+### 9 - ORGANIZAÇÃO DO CÓDIGO EM COMPONENTES
 
+**Routing**
+
+- Documentação: https://nextjs.org/docs/app/building-your-application/routing
+
+
+Na versão 13, Next.js introduziu um novo App Router construído em React Server Components, que oferece suporte a layouts compartilhados, roteamento aninhado, estados de carregamento, tratamento de erros e muito mais.
+
+O App Router funciona em um novo diretório chamado app. O diretório app funciona junto com o diretório pages para permitir a adoção incremental. Isso permite que você opte por algumas rotas do seu aplicativo para o novo comportamento, enquanto mantém outras rotas no diretório de páginas para comportamento anterior. Se o seu aplicativo usa o diretório de páginas, consulte também a documentação do Pages Router.
+
+
+- Exemplo
+    - next-js_009
