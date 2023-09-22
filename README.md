@@ -256,9 +256,10 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
     - next-js_010
 
 
+### 11 - MAIS COMPONENTES E CSS ESPECÍFICO POR COMPONENTE
 
-
-
+- Exemplo
+    - next-js_011
 
 
 
