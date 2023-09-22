@@ -1,6 +1,8 @@
 import './globals.css'
 import type { Metadata } from 'next'
+import Nav from "./components/Nav"
 
+import Footer from "./components/Footer"
 
 
 export const metadata: Metadata = {
@@ -15,8 +17,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-br">
-      <body>        
+      <body>
+        {/* barra de navegação */}
+        <Nav />
+
+
         {children}
+
+
+        {/* barra de navegação */}
+        <Footer />
       </body>
     </html>
   )
