@@ -262,9 +262,20 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
     - next-js_011
 
 
+### 12 - ROTAS E COMPONENTE DE NAVEGAÇÃO LINK
 
+- Documentação:
+    - Link: https://nextjs.org/docs/app/api-reference/components/link
 
+**URLs**
 
+- http://localhost:3000/
+- http://localhost:3000/home nok
+- http://localhost:3000/services
+- http://localhost:3000/contacts
+
+- Exemplo
+    - next-js_012
 
 
 
