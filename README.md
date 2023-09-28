@@ -278,8 +278,13 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
     - next-js_012
 
 
+### 13 - INSERÇÃO DE IMAGENS COM O COMPONENTE IMAGE
 
+- Documentação:
+    - Link: https://nextjs.org/docs/app/api-reference/components/image
 
+- Exemplo
+    - next-js_013
 
 
 
