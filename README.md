@@ -287,9 +287,18 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
     - next-js_013
 
 
+### 14 - REVISÃO DA DOCUMENTAÇÃO SOBRE ROTEAMENTO 1 / 2
+
+- Documentação:
+    - Link: https://nextjs.org/docs
+
+**Routing Fundamentals**
+
+- https://nextjs.org/docs/app/building-your-application/routing
 
 
-
+- Exemplo
+    - next-js_014
 
 
 
