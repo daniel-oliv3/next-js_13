@@ -312,7 +312,9 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 **Pages and Layouts**
 
-- https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts
+
+- Documentação:
+    - Link: https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts
 
 
 - Exemplo
@@ -320,8 +322,21 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 
 
+### 16 - UTILIZANDO ROUTE GROUPS
 
+**Route Groups**
 
+- Documentação:
+    - Link: https://nextjs.org/docs/app/building-your-application/routing/route-groups
+
+**URLs**
+
+- http://localhost:3000/services1
+- http://localhost:3000/services2
+- http://localhost:3000/services3
+
+- Exemplo
+    - next-js_016
 
 
 
