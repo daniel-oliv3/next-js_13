@@ -340,7 +340,10 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 
 
+### 17 - USANDO LAYOUTS - INTRODUÇÃO
 
+- Exemplo
+    - next-js_017
 
 
 
