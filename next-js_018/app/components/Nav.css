@@ -1,0 +1,19 @@
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+
+.link {
+    color: yellow;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: white;
+    text-decoration: underline;
+}
+

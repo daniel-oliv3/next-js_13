@@ -346,7 +346,24 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
     - next-js_017
 
 
+### 18 - INTRODUÇÃO ÀS DYNAMIC ROUTES
 
+**Dynamic Routes**
+
+- Link: https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes
+
+
+**URLs**
+
+- http://localhost:3000/
+- http://localhost:3000/service
+- http://localhost:3000/services
+- http://localhost:3000/contacts
+
+- http://localhost:3000/service/1
+
+- Exemplo
+    - next-js_018
 
 
 
