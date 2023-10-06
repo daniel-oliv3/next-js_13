@@ -373,9 +373,18 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 
 
+### 19 - EXPERIÊNCIAS COM DYNAMIC ROUTES
 
 
+**URLs**
 
+- http://localhost:3000/services
+- http://localhost:3000/service/1
+- http://localhost:3000/service/2
+- http://localhost:3000/service/3
+
+- Exemplo
+    - next-js_019
 
 
 
