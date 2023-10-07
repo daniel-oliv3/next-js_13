@@ -390,8 +390,11 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 
 
+### 20 - EXPERIÊNCIAS COM DYNAMIC ROUTES PARTE 2
 
 
+- Exemplo
+    - next-js_20
 
 
 
