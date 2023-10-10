@@ -412,6 +412,19 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 - Novo Projeto
 
+**URLs**
+
+- http://localhost:3000/
+- http://localhost:3000/clientes
+- http://localhost:3000/clientes/daniel
+
+- `[nome]`
+
+
+- http://localhost:3000/clientes/daniel/oliveira
+
+- `[...identificacao]`
+
 - Exemplo
     - next-js_21
 
