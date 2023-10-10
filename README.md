@@ -375,6 +375,9 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 ### 19 - EXPERIÊNCIAS COM DYNAMIC ROUTES
 
+**Dynamic Routes**
+
+- Link: https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes
 
 **URLs**
 
@@ -392,16 +395,25 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 ### 20 - EXPERIÊNCIAS COM DYNAMIC ROUTES PARTE 2
 
+**Dynamic Routes**
+
+- Link: https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes
 
 - Exemplo
     - next-js_20
 
 
 
+### 21 - EXPERIÊNCIAS COM DYNAMIC ROUTES PARTE 3
 
+**Dynamic Routes**
 
+- Link: https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes
 
+- Novo Projeto
 
+- Exemplo
+    - next-js_21
 
 
 
