@@ -2,7 +2,9 @@
 ### Next JS - 13
 ##
 
-
+<p align="center">
+  <img alt="...." src="./assets/nextjs_icon_132160.png" width="80%">
+</p>
 
 
 **Next.js**
@@ -430,7 +432,31 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 
 
+### 22 - COMO ADICIONAR O BOOTSTRAP AO NEXTJS 13
 
+- Power Shell
+
+- entrar na pasta do projeto
+```
+cd "C:\Users\Daniel_Oliveira\Documents\GitHub\next-js_13\next-js_022"
+```
+
+- Ls (visualizar a pasta)
+```
+ls
+```
+
+- Cria um novo projeto nextjs
+```
+npx create-next-app@latest
+```
+
+<p align="center">
+  <img alt="...." src="./assets/powershell.jpg" width="80%">
+</p>
+
+- Exemplo
+    - next-js_22
 
 
 
