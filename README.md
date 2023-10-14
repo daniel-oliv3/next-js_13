@@ -455,6 +455,13 @@ npx create-next-app@latest
   <img alt="...." src="./assets/powershell.jpg" width="80%">
 </p>
 
+- Comando para instalar o Bootstrap
+
+```
+npm install bootstrap
+```
+
+
 - Exemplo
     - next-js_22
 
