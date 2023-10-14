@@ -438,7 +438,7 @@ O App Router funciona em um novo diretório chamado app. O diretório app funcio
 
 - entrar na pasta do projeto
 ```
-cd "C:\Users\Daniel_Oliveira\Documents\GitHub\next-js_13\next-js_022"
+cd "C:\Users\GitHub\next-js_13\next-js_022"
 ```
 
 - Ls (visualizar a pasta)
@@ -452,7 +452,7 @@ npx create-next-app@latest
 ```
 
 <p align="center">
-  <img alt="...." src="./assets/powershell.jpg" width="80%">
+  <img alt="...." src="./assets/powershell1.jpg" width="80%">
 </p>
 
 - Comando para instalar o Bootstrap
