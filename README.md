@@ -467,9 +467,10 @@ npm install bootstrap
 
 
 
+### 23 - RECORRENDO AO REACT PROPS PARA DEFINIR DADOS DOS LINKS
 
-
-
+- Exemplo
+    - next-js_23
 
 
 
