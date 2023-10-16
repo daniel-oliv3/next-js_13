@@ -13,9 +13,9 @@ export default function RootLayout({ children }) {
       <body>
 
         <nav className='d-flex gap-2 p-3 justify-content-center'>
-          <Button />
-          <Button />
-          <Button />
+          <Button endereco="https://www.google.com.br" texto="Google" />
+          <Button endereco="https://www.cnn.com.br" texto="CNN" />
+          <Button endereco="https://www.nyt.com" texto="NYT" />
         </nav>
 
         {children}

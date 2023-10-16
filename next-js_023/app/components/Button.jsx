@@ -1,8 +1,8 @@
 
-export default function Button(){
+export default function Button(props){
     return (
         <>
-            <a href="https://www.google.com.br" className="btn btn-primary">Botão</a>
+            <a href={props.endereco} className="btn btn-primary">{props.texto}</a>
         </>
     )
 }
