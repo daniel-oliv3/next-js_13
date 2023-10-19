@@ -501,6 +501,12 @@ npm list bootstrap
 npm list node
 ```
 
+**URLs**
+
+- http://localhost:3000/
+- http://localhost:3000/points
+- http://localhost:3000/map
+
 
 **App**
 

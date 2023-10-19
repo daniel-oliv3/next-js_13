@@ -1,0 +1,32 @@
+
+
+.link {
+  color: #ffffff;
+  background: linear-gradient(to bottom, #333 0%, #111 100%);
+  text-decoration: none;
+  margin: 0px 10px;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.link:hover {
+  background: linear-gradient(to bottom, #ff009d 0%, #9900ff 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
