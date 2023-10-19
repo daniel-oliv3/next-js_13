@@ -15,15 +15,31 @@
 
 
 
+/* Home - Section One */
+.section-one {
+  background-image: url(/assets/imagens/section-one-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.section-one-title {
+  font-size: 2.5rem;
+  color: rgb(255, 251, 0);
+}
+
+.section-one-text {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 20px;
+}
 
 
-
-
-
-
-
-
-
+/* Home - Section Two */
+.section-two {
+  background-color: rgb(164, 180, 189);
+}
 
 
 
