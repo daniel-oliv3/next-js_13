@@ -475,6 +475,37 @@ npm install bootstrap
 
 ### 24 - NEXTJS 3 + BOOTSTRAP 5 | SITE SIMPLES | PROJETO COMPLETO
 
+- Cria um novo projeto nextjs
+```
+npx create-next-app@latest
+```
+
+- Roda o projeto
+```
+npm run dev
+```
+
+- Instala o Bootstrap
+```
+npm install bootstrap
+```
+
+- Analisa a versão do package instalado 
+   - npm install "package"
+
+```
+npm list bootstrap
+```
+
+```
+npm list node
+```
+
+
+**App**
+
+- Link: https://travel-agency-sapup3.vercel.app/
+
 - Exemplo
     - next-js_24
 
