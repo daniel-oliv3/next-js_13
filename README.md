@@ -473,7 +473,10 @@ npm install bootstrap
     - next-js_23
 
 
+### 24 - NEXTJS 3 + BOOTSTRAP 5 | SITE SIMPLES | PROJETO COMPLETO
 
+- Exemplo
+    - next-js_24
 
 
 
