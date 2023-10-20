@@ -1,25 +1,18 @@
 
 
-
-
 // ------- Map -------
-export default function Map(){
-    return (
-        <>
-            <h1>Map</h1>
-            <p>Map is a built-in function in JavaScript that allows you to transform an array of values into another array of values. It is commonly used to transform data from one format to another, such as transforming an array of objects into an array of strings, or transforming an array of numbers into an array of objects with a specific set of properties.</p>
-        </>
-    )
+export default function Map() {
+  return (
+    <>
+      <iframe
+        className="map"
+        // width="100%"
+        // frameBorder="0"
+        // marginHeight="0"
+        // marginWidth="0"
+        src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=new york&amp;t=k&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+      ></iframe>
+    </>
+  );
 }
-
-
-
-
-
-
-
-
-
-
-
 

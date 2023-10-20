@@ -501,6 +501,42 @@ npm list bootstrap
 npm list node
 ```
 
+- Converter png em favicon
+    - Link: https://favicon.io/
+
+**Google Map**
+
+- https://www.google.com.br/maps/place/Nova+Iorque,+NY,+EUA/@40.69754,-74.3093323,81852m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728!16zL20vMDJfMjg2?entry=ttu
+
+
+**Embed my map**
+- Link: https://embedmymap.com/
+
+- Iframe gerado
+```html
+<!--
+
+/* Iframe gerado */    
+
+<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=new york&amp;t=k&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/">Connections Puzzle</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
+
+
+/*Editado*/
+
+/*
+<iframe 
+    className="map" 
+    width="100%" 
+    frameBorder="0" 
+    marginHeight="0" 
+    marginWidth="0" 
+    src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=new york&amp;t=k&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+</iframe>
+*/
+
+-->
+```
+
 **URLs**
 
 - http://localhost:3000/

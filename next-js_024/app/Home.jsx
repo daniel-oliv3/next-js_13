@@ -41,7 +41,7 @@ export default function Home(){
                                 Você pode consultar os pontos turísticos mais próximos de sua localização. O mapa é atualizado a cada 15 minutos.
                             </p>
                             <div className="text-center">
-                                <Link href="/points" className="btn btn-outline-light py-3 px-5"><h4>Consultar Mapa</h4></Link>
+                                <Link href="/map" className="btn btn-outline-dark py-3 px-5"><h4>Consultar Mapa</h4></Link>
                             </div>
                         </div>
                     </div>
